@@ -21,7 +21,7 @@ I'm Suchir Ladda. I'm currently a third-year Electrical Engineering student at M
 - 💼 LinkedIn: [linkedin.com/in/suchirladda](https://www.linkedin.com/in/suchir-ladda/)
 - 📫 Email: suchirladda@gmail.com
 
-Thanks for visiting! Feel free to explore my repositories — I'm always open to feedback, collaboration, or just geeking out about electronics 🤓
+Feel free to explore my repositories. I'm always open to feedback or collaboration!
 <!--
 **SuchirLadda/SuchirLadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
