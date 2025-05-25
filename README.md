@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm Suchir Ladda — a third-year Electrical Engineering student at McMaster University with a passion for building innovative hardware and software systems.
+I'm Suchir Ladda. I'm currently a third-year Electrical Engineering student at McMaster University with a passion for building innovative hardware and software systems.
 
 🛠️ **What I'm Into**
 - 🚀 Embedded systems, digital logic design, and RF engineering
